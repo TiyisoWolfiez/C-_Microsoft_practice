@@ -67,3 +67,4 @@ static void Process3(string[,] products, int item)
 {
     Console.WriteLine($"Process3 message - processing product information for 'new' product");
 } 
+
