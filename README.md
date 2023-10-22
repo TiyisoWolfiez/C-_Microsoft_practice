@@ -6,6 +6,8 @@ To run the code:
 
 ---------------######-------------
 cd / (your directory)
+
 dotnet build
+
 dotnet run
 -------------######----------------
